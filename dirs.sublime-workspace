@@ -1,0 +1,855 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"http",
+				"httpDir"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"ob_get",
+				"ob_get_clean"
+			],
+			[
+				"arr",
+				"arrayInArray"
+			],
+			[
+				"arra",
+				"arrayExample"
+			],
+			[
+				"a",
+				"arrayExample"
+			],
+			[
+				"size",
+				"sizeOfArray"
+			],
+			[
+				"arra_wal",
+				"array_walk_recursive"
+			],
+			[
+				"uk-ani",
+				"uk-animation-slide-top \tUIkit class"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"rea",
+				"realPath"
+			],
+			[
+				"create",
+				"createCrumbs"
+			],
+			[
+				"base",
+				"basename"
+			],
+			[
+				"FILE",
+				"FILE_URL"
+			],
+			[
+				"DIRE",
+				"DIRECTORY_SEPARATOR"
+			],
+			[
+				"current",
+				"current_dir"
+			],
+			[
+				"DI",
+				"DIRECTORY_SEPARATOR"
+			],
+			[
+				"BASE_",
+				"BASE_DIR"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"req",
+				"requestDir"
+			],
+			[
+				"D",
+				"DIRECTORY_SEPARATOR"
+			],
+			[
+				"dir",
+				"dirContents"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"uk-form-la",
+				"uk-form-label \tUIkit class"
+			],
+			[
+				"BASE",
+				"BASE_URL"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"url",
+				"urlPath"
+			],
+			[
+				"parse_",
+				"parse_url"
+			],
+			[
+				"uk-nav-i",
+				"uk-navbar-item \tUIkit class"
+			],
+			[
+				"atta",
+				"attachRole"
+			],
+			[
+				"Task",
+				"TaskFilterService"
+			],
+			[
+				"task",
+				"taskFilter"
+			],
+			[
+				"uk-width-1",
+				"uk-width-1-1 \tUIkit class"
+			],
+			[
+				"place",
+				"placeFilter"
+			],
+			[
+				"status",
+				"statusFilter"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"uk-card-h",
+				"uk-card-hover \tUIkit class"
+			],
+			[
+				"uk-card",
+				"uk-card-default \tUIkit class"
+			],
+			[
+				"uk-c",
+				"uk-card \tUIkit class"
+			],
+			[
+				"uk-grid",
+				"uk-grid-margin \tUIkit class"
+			],
+			[
+				"uk-grid-",
+				"uk-grid-small \tUIkit class"
+			],
+			[
+				"article",
+				"uk-article-meta \tUIkit class"
+			],
+			[
+				"uk-te",
+				"uk-text-lead \tUIkit class"
+			],
+			[
+				"uk-margin-",
+				"uk-margin-bottom \tUIkit class"
+			],
+			[
+				"uk-art",
+				"uk-article-meta \tUIkit class"
+			],
+			[
+				"uk-article",
+				"uk-article-title \tUIkit class"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"Store",
+				"StoreStatus"
+			],
+			[
+				"uk-button-l",
+				"uk-button-link \tUIkit class"
+			],
+			[
+				"p",
+				"place"
+			],
+			[
+				"pl",
+				"places"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"LANGUAGE",
+				"LANGUAGE_SUPPORT"
+			],
+			[
+				"re",
+				"requestQuery"
+			],
+			[
+				"parse",
+				"parse_url"
+			],
+			[
+				"ob_end_",
+				"ob_end_flush"
+			],
+			[
+				"ob_end",
+				"ob_end_flush"
+			],
+			[
+				"xmp_",
+				"xmas_product"
+			],
+			[
+				"employee",
+				"employeeValidated"
+			],
+			[
+				"query",
+				"queryString"
+			],
+			[
+				"staff",
+				"staffList"
+			],
+			[
+				"empl",
+				"employee"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"conne",
+				"connectDB"
+			],
+			[
+				"emploee",
+				"employeeProjects"
+			],
+			[
+				"ass",
+				"assignedProjects"
+			],
+			[
+				"emplyee",
+				"employeeProjects"
+			],
+			[
+				"staffA",
+				"staffAssignedProjects"
+			],
+			[
+				"position",
+				"position_id"
+			],
+			[
+				"order",
+				"orderBy"
+			],
+			[
+				"add",
+				"addOrderByToQuery"
+			],
+			[
+				"getOne",
+				"getOneToManyQuery"
+			],
+			[
+				"va",
+				"var_dump\t(Factory.php)"
+			],
+			[
+				"getL",
+				"getListQuery"
+			],
+			[
+				"getI",
+				"getItemQuery"
+			],
+			[
+				"connect",
+				"connectDb"
+			],
+			[
+				"users",
+				"usersResult"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"positions",
+				"positionsList\t(Lists.php)"
+			],
+			[
+				"sta",
+				"staffList"
+			],
+			[
+				"strt",
+				"strtr"
+			],
+			[
+				"request",
+				"requestPath"
+			],
+			[
+				"site",
+				"siteData"
+			],
+			[
+				"array_wa",
+				"array_walk_recursive"
+			],
+			[
+				"menu",
+				"menuItem"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"filter_input",
+				"filter_input_array"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"to",
+				"toFind"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"col",
+				"cols\tAttr"
+			],
+			[
+				"login",
+				"loginUri"
+			],
+			[
+				"template",
+				"templateDir"
+			],
+			[
+				"view",
+				"viewDir"
+			],
+			[
+				"home",
+				"homeDir"
+			],
+			[
+				"setRe",
+				"setRequestLanguage\t(RequestLanguage.php)"
+			],
+			[
+				"allow",
+				"allowChars"
+			],
+			[
+				"saniti",
+				"sanitizePlain\t(Sanitize.php)"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"action",
+				"actionUri"
+			],
+			[
+				"one",
+				"oneInt"
+			],
+			[
+				"bas",
+				"base_dir\t(LangSwitcher.php)"
+			],
+			[
+				"lang",
+				"langSwitcher\t(LangSwitcher.php)"
+			],
+			[
+				"swit",
+				"switcher"
+			],
+			[
+				"render",
+				"renderResponse\t(AdminController.php)"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"translati",
+				"translationsDir"
+			],
+			[
+				"language",
+				"languageDefault"
+			],
+			[
+				"langu",
+				"languageFallback"
+			],
+			[
+				"uri",
+				"uriLogin"
+			],
+			[
+				"login_",
+				"login_uri\t(config.inc.php)"
+			],
+			[
+				"s",
+				"sfphp"
+			],
+			[
+				"ac",
+				"action_uri\t(ProtectController.php)"
+			],
+			[
+				"getC",
+				"getCurrentRequest"
+			],
+			[
+				"redire",
+				"redirectResponse\t(RequestDefender.php)"
+			],
+			[
+				"controller",
+				"controllerUri"
+			],
+			[
+				"contr",
+				"controllerUri"
+			],
+			[
+				"redirect",
+				"redirectResponse\t(RequestLocale.php)"
+			],
+			[
+				"Curre",
+				"currentRequest"
+			],
+			[
+				"protection",
+				"protectionController"
+			],
+			[
+				"in_",
+				"in_array"
+			],
+			[
+				"in_arra",
+				"in_array"
+			],
+			[
+				"in_a",
+				"in_array"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Laravel ",
+				"Laravel Generate 5: Make:Migration:Schema"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pl",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: elif …"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 250.0,
+		"history":
+		[
+			"cd /var/www/html/sfphp"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/dirs/l5.php",
+		"/var/www/html/dirs/_index.php",
+		"/var/www/html/dir_list.php",
+		"/var/www/html/dirs/public/files/go/nowhere/second test",
+		"/var/www/html/dirs/skelbimai.php",
+		"/var/www/html/dirs/skelbimai.json",
+		"/var/www/html/dirs/l4.php",
+		"/home/vitas/Downloads/php-ketvirta-paskaita-masyvai.php",
+		"/var/www/html/shop/project/src/entities/EntityCollection.php",
+		"/var/www/html/staff/src/models/StaffModel.php",
+		"/var/www/html/staff/src/models/DbFactory.php",
+		"/home/vitas/.cache/.fr-4X0HZm/skelbimai.php",
+		"/var/www/html/dirs/dir_list.php",
+		"/var/www/html/symfony/web-app/src/AppBundle/Utils/ArrayTransformer.php",
+		"/var/www/html/drupal/7/sites/knygos.lsmuni.lt/themes/the_shop/inc/helpers.inc.php",
+		"/var/www/html/dirs/index_get.php",
+		"/var/www/html/dirs/public/files/test_file_0",
+		"/var/www/html/bt-mvc/src/controllers/DemoController.php",
+		"/var/www/html/dirs/thefirst.php",
+		"/home/vitas/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/var/www/html/dirs/dirs.sublime-project",
+		"/home/vitas/.config/sublime-text-3/Packages/User/Adaptive.sublime-theme",
+		"/home/vitas/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/vitas/.config/geany/colorschemes/bespin.conf",
+		"/var/www/html/dirs/dirs.php",
+		"/home/vitas/.config/sublime-text-3/Packages/User/New text.txt",
+		"/var/www/html/dirs/index.php",
+		"/var/www/html/drupal/7/sites/knygos.lsmuni.lt/themes/the_shop/template.php",
+		"/run/user/1000/gvfs/sftp:host=193.219.180.226,port=2022,user=install/install/soft/office/keys/LicenseKeys_2019129.txt",
+		"/home/vitas/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/opt/sublime_text/sublime_text",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022,user=webgtc/web/gtc/sites/default/settings.php",
+		"/home/vitas/Desktop/paskaitos-/k/gabija.simnet.lt/it/vad9_10/algor/fphover.class",
+		"/home/vitas/.cache/.fr-PmPaD3/app.php",
+		"/home/vitas/.cache/.fr-LC9Qmf/src/controllers/IndexController.php",
+		"/var/www/html/shop/03-static-db/lib/DbConnection.php",
+		"/var/www/html/shop/project/test-04.php",
+		"/var/www/html/tree/logic.php",
+		"/var/www/html/shop/01-class-object/Product.php",
+		"/var/www/html/shop/02-db-orm/test-02.php",
+		"/var/www/html/shop/02-db-orm/src/Product.php",
+		"/var/www/html/bt-mvc/app.php",
+		"/var/www/html/bt-mvc/src/controllers/DefaultController.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022,user=webgtc/web/gtc/sites/default/themes/the_zero/templates/views/block_slideshow/views-view-fields--content-manipulation--block-slide-show.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022,user=webgtc/web/gtc/sites/default/themes/the_zero/templates/views/block_slideshow/views-view--content-manipulation--block-slide-show.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022,user=webgtc/web/gtc/sites/default/themes/the_zero/the_zero.info",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022,user=webgtc/web/gtc/sites/default/themes/the_zero/the_zero_down.css",
+		"/home/vitas/.cache/.fr-MpdLri/css/style.css",
+		"/home/vitas/Desktop/simple-arrow-animation/scss/style.scss",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022,user=webgtc/web/gtc/sites/default/themes/the_zero/templates/views/block_slideshow/views-view-unformatted--content-manipulation--block-slide-show.tpl.php",
+		"/var/www/html/dirs/+.htaccess",
+		"/var/www/html/dirs/.htaccess",
+		"/run/user/1000/gvfs/sftp:host=193.219.180.226,port=2022,user=vitas/home/staff/vitas/advantage/ads.conf",
+		"/run/user/1000/gvfs/sftp:host=193.219.180.226,port=2022,user=vitas/home/staff/vitas/advantage/LICENSE",
+		"/run/user/1000/gvfs/sftp:host=193.219.180.226,port=2022,user=vitas/home/staff/vitas/advantage/ads",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022,user=webhub/web/hub/modules/README.txt",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022,user=webhub/web/hub/sites/default/themes/the_zero/templates/html.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/hub/sites/default/modules/back_to_top/css/back_to_top.css",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/hub/sites/default/themes/the_zero/the_zero_style.css",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/gtc/sites/default/themes/the_zero/the_zero_style.css",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/gtc/sites/default/modules/back_to_top/css/back_to_top.css",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/gtc/sites/default/themes/the_zero/inc/helpers.inc.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/gtc/sites/default/themes/the_zero/the_zero_slide_show.css",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/gtc/sites/default/themes/the_zero/the_zero_navbar.css",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/gtc/sites/default/themes/the_zero/templates/html.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/gtc/sites/default/themes/the_zero/templates/pages/page--front.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/gtc/sites/default/modules/the_zero_helpers/the_zero_helpers.module",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/gtc/sites/default/modules/meta_description/meta_description.module",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/eml.lsmuni.lt/modules/the_zero_helpers/the_zero_helpers.module",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022,user=webgtc/web/gtc/sites/default/themes/the_zero/templates/nodes/node--teaser.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/pagalba.lsmuni.lt/themes/the_zero/templates/pages/page--front.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/pagalba.lsmuni.lt/themes/the_zero/templates/pages/page.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/pagalba.lsmuni.lt/themes/the_zero/the_zero.info",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/drupal/sites/default/themes/the_zero/templates/pages/page--front.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022/web/drupal/sites/default/themes/the_zero/templates/pages/page.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022,user=webhub/web/drupal/sites/default/themes/the_zero/templates/pages/page--front.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmu.lt,port=2022,user=webhub/web/drupal/sites/default/themes/the_zero/templates/pages/page.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/all/modules/memcache/memcache-lock.inc",
+		"/home/vitas/.cache/.fr-wYF6uH/trauki/trauki.features.inc",
+		"/home/vitas/.cache/.fr-ORl5dF/trauki/trauki.features.field_instance.inc",
+		"/home/vitas/.cache/.fr-wq6v0a/trauki/trauki.features.field_base.inc",
+		"/home/vitas/.cache/.fr-4larrf/trauki/trauki.module",
+		"/var/www/html/tasks/resources/views/crud/tasks_index.blade.php",
+		"/var/www/html/tasks/resources/views/crud/places_index.blade.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal/themes/contrib/basic/includes/basic.drush.inc",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal/themes/contrib/basic/sass/base/base.scss",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal/themes/contrib/basic/theme-settings.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal/themes/contrib/basic/config/optional/block.block.basic_account_menu.yml",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal/themes/contrib/basic/basic.theme",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal/themes/contrib/basic/config/schema/basic.schema.yml",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal/.htaccess",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal/profiles/README.txt",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal/sites/default/settings.php",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal-8.6.5/modules/contrib/ctools/ctools.module",
+		"/run/user/1000/gvfs/sftp:host=webhub.lsmuni.lt,port=2022/web/drupal-8.6.5/modules/pathauto-8.x-1.3/pathauto/pathauto.module",
+		"/tmp/mozilla_vitas0/vartiklis-nr4.txt",
+		"/tmp/mozilla_vitas0/vartiklis-nr2.txt",
+		"/tmp/mozilla_vitas0/vartiklis-nr3.txt",
+		"/tmp/mozilla_vitas0/vartiklis-nr1.txt",
+		"/run/user/1000/gvfs/sftp:host=international.lsmuni.lt,port=2022,user=webtrc/web/drupal-8.6.5/themes/basic/templates/maintenance-page.html.twig",
+		"/run/user/1000/gvfs/sftp:host=international.lsmuni.lt,port=2022,user=webtrc/web/drupal-8.6.5/themes/basic/templates/menu.html.twig",
+		"/run/user/1000/gvfs/sftp:host=international.lsmuni.lt,port=2022,user=webtrc/web/drupal-8.6.5/themes/README.txt",
+		"/run/user/1000/gvfs/sftp:host=international.lsmuni.lt,port=2022,user=webtrc/web/drupal-8.6.5/core/themes/seven/templates/admin-block-content.html.twig",
+		"/var/www/html/tasks/resources/views/layouts/base.blade.php",
+		"/var/www/html/dirs/upload.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/univaistine.lsmuni.lt/themes/the_shop/templates/nodes/node--product-type-accessories--teaser.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/univaistine.lsmuni.lt/themes/the_shop/template.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/univaistine.lsmuni.lt/themes/the_shop/inc/helpers.inc.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/balticmorphology2019.lsmuni.lt/themes/the_zero/the_zero_style.css",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/balticmorphology2019.lsmuni.lt/themes/the_zero/templates/forms/node--add--abstract-submission-form.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/balticmorphology2019.lsmuni.lt/themes/the_zero/inc/theme_elements.inc.php",
+		"/var/www/html/dirs/dir_list.html.php",
+		"/home/vitas/Desktop/vaistine-staff.txt",
+		"/var/www/html/tree/app/Http/Controllers/DepartmentController.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/balticmorphology2019.lsmuni.lt/modules/the_zero_helpers/the_zero_helpers.module",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/balticmorphology2019.lsmuni.lt/themes/the_zero/templates/nodes/node--abstract-submission-form--full.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/balticmorphology2019.lsmuni.lt/themes/the_zero/template.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/balticmorphology2019.lsmuni.lt/themes/the_zero/inc/theme.inc.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/sgk.lsmuni.lt.prod/themes/the_zero/templates/forms/node--add--patient-registration-form.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/sgk.lsmuni.lt.prod/themes/the_zero/templates/nodes/node--abstract-submission-form--full.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/balticmorphology2019.lsmuni.lt/themes/the_zero/templates/forms/node--add--abstract-registration-form.tpl.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/sgk.lsmuni.lt.prod/themes/the_zero/inc/theme.inc.php",
+		"/run/user/1000/gvfs/sftp:host=web.lsmuni.lt,port=2022,user=vitas/home/vitas/www/drupal/sites/sgk.lsmuni.lt.prod/themes/the_zero/inc/lezaaqfv.php",
+		"/home/vitas/Desktop/New text.txt",
+		"/var/www/html/tree/app/Department.php",
+		"/var/www/html/tasks/routes/web.php",
+		"/var/www/html/tasks/app/Service/TaskFilterService.php",
+		"/var/www/html/symfony/web-app/src/AppBundle/Service/PageService.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"member",
+			"POST"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 127.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 232.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/PSR-2.sublime-build",
+	"project": "dirs.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
